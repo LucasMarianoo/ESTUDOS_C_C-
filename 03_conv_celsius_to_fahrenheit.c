@@ -8,7 +8,7 @@ int main()
 {
     setlocale(LC_ALL, "Portuguese");
 
-    // converter temperatura Celsius para Fahrenheit
+    // variáveis
     int celsius;
     float fahrenheit;
 
