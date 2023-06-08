@@ -51,5 +51,26 @@ Após o aumento ser realizado, informe na tela:
             4. o novo salário, após o aumento.
 
 
-7 - 
+7 - Faça um algoritmo investigador criminal. Ele deve fazer 5 perguntas para uma pessoa sobre um crime. 
+
+As perguntas são:
+
+           e. "Telefonou para a vítima?"
+           f. "Esteve no local do crime?"
+           g. "Mora perto da vítima?"
+           h. "Devia para a vítima?"
+           i. "Já trabalhou com a vítima?"
+
+O algoritmo deve emitir uma classificação sobre a participação da pessoa no crime. 
+Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". 
+Caso contrário, ele será classificado como "Inocente".
+
+
+8 - Desenvolva um pequeno programa de login e senha. Para isso, peça ao usuário para digitar o seu login e armazene em uma variável. Em seguida, peça para o usuário digitar a sua senha e armazene em outra variável. Por fim, verifique se o login e a senha são iguais àquele definido por você. 
+Dicas:  
+
+           1)Você pode utilizar para login o seu nome e para a senha o seu CPF 
+           2)Você deve declarar essas variáveis e armazenar os valores digitados pelo usuário, em seguida compare com os valores originais utilizando o SE-SENAO 
+           3)Caso o login esteja correto, coloque a mensagem “Bem-vindo (nome da pessoa)”, caso contrário “Login inválido”  
+
 
